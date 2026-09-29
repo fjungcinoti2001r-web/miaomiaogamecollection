@@ -1,11 +1,11 @@
 const games=[
-  {name:'苗片大摸底！',note:'',color:'#f7c86b',url:'https://fjungcinoti2001r-web.github.io/xiemiaomovie-quiz/'},
-  {name:'测测你是谢苗宇宙里的谁？',note:'',color:'#f5a98c',url:'https://fjungcinoti2001r-web.github.io/xiemiao-quiz2026/'},
-  {name:'合成大苗哥',note:'正常版，合到苗哥为通关',color:'#9ed59a',url:'https://fjungcinoti2001r-web.github.io/hechengdamiaoge/'},
-  {name:'合成大苗哥',note:'雷霆版，合到苗哥为通关，不是真爱粉慎点！！！',color:'#f18b8b',url:'https://fjungcinoti2001r-web.github.io/hechengleitingdamiaoge/'},
-  {name:'开心苗苗乐',note:'目前20w分视为通关',color:'#f2d36b',url:'https://fjungcinoti2001r-web.github.io/kaixinmiaomiaole/'},
-  {name:'苗哥2048',note:'合到2048为通过',color:'#93cde6',url:'https://fjungcinoti2001r-web.github.io/miaoge2048/'},
-  {name:'FLAPPY FURIOUS',note:'《火遮眼》粉丝向游戏',color:'#b6a3df',url:'https://fjungcinoti2001r-web.github.io/flappyfurious/'},
+  {name:'苗片大摸底！',note:'检验真爱的时候到了',color:'#6bf7a8',url:'https://fjungcinoti2001r-web.github.io/xiemiaomovie-quiz/'},
+  {name:'测测你是谢苗宇宙里的谁？',note:'经典萤幕形象人格测试',color:'#f2dcb1',url:'https://fjungcinoti2001r-web.github.io/xiemiao-quiz2026/'},
+  {name:'合成大苗哥',note:'正常版，合到苗哥为通关',color:'#f2beb1',url:'https://fjungcinoti2001r-web.github.io/hechengdamiaoge/'},
+  {name:'合成大苗哥',note:'雷霆版，合到苗哥为通关，不是真爱粉慎点！！！',color:'#a64d37',url:'https://fjungcinoti2001r-web.github.io/hechengleitingdamiaoge/'},
+  {name:'开心苗苗乐',note:'目前20w分视为通关',color:'#9bfaf5',url:'https://fjungcinoti2001r-web.github.io/kaixinmiaomiaole/'},
+  {name:'苗哥2048',note:'合到2048为通过',color:'#f5cdf7',url:'https://fjungcinoti2001r-web.github.io/miaoge2048/'},
+  {name:'FLAPPY FURIOUS',note:'《火遮眼》粉丝向游戏',color:'#517550',url:'https://fjungcinoti2001r-web.github.io/flappyfurious/'},
   {name:'奇迹苗哥',note:'一起装扮苗哥吧',color:'#ed8aa4',url:'https://fjungcinoti2001r-web.github.io/miaogedeyichu/'},
   {name:'RunningMiao',note:'未上线',color:'#c9c9c9',url:''},
 ];
