@@ -6,7 +6,8 @@ const games=[
   {name:'开心苗苗乐',note:'目前20w分视为通关',color:'#f2d36b',url:'https://fjungcinoti2001r-web.github.io/kaixinmiaomiaole/'},
   {name:'苗哥2048',note:'合到2048为通过',color:'#93cde6',url:'https://fjungcinoti2001r-web.github.io/miaoge2048/'},
   {name:'FLAPPY FURIOUS',note:'',color:'#b6a3df',url:'https://fjungcinoti2001r-web.github.io/flappyfurious/'},
-  {name:'奇迹苗哥',note:'暂未上线',color:'#c9c9c9',url:''}
+  {name:'奇迹苗哥',note:'一起装扮苗哥吧',color:'#DC6282',url:'https://fjungcinoti2001r-web.github.io/miaogedeyichu/'}
+  {name:'RunningMiao',note:'未上线',color:'#c9c9c9',url:''}
 ];
 document.querySelector('#enterBtn').addEventListener('click',()=>{document.querySelector('#introScreen').style.display='none';document.querySelector('.page-shell').classList.add('visible')});
 let current='all';
